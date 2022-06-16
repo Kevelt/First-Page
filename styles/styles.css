@@ -1,0 +1,18 @@
+#background {
+    height: 800px;
+    background-image: url("/img/backgroundtecnologhy.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+#background-content {
+    width: 900px;
+    background-color: rgba(225, 115, 77, 0.7);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+    border-radius: 8px;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+}
